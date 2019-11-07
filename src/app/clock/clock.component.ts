@@ -17,6 +17,8 @@ export class ClockComponent  {
   
   setTime(){
       var today = new Date();
+
+      
       this.time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
        
   }
