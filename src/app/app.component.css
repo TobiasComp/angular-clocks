@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+.firstTwo {
+  display: flex;
+  justify-content: space-around;
+  
+}
+.middleOne {
+  display: flex;
+  justify-content: center;
+}
+
+.lastTwo {
+  display: flex;
+  justify-content: space-around;
+}
