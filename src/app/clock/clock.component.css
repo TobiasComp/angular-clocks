@@ -4,17 +4,20 @@
 }
 
 .clock {
+  border: 2px solid red;
   background: violet;
   display: inline-block;
   padding: 15px 40px;
   text-align: center;
   margin: 10px;
+  border-radius: 50%;
+  width: 100px;
 }
 
 .red {
   background-color: red;
 }
 
-.blue {
-  background-color: blue;
+.lightblue {
+  background-color: lightblue;
 }
